@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #### 参考文章：
-[在 React 中使用 Redux](https://juejin.im/post/5b755537e51d45661d27cdc3)
-[Redux入门教程](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+1. [在 React 中使用 Redux](https://juejin.im/post/5b755537e51d45661d27cdc3)
+2. [Redux入门教程](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
 
 ## Available Scripts
 
